@@ -74,9 +74,9 @@ The **Attention Half U-Net** consists of:
   - Fusion of attention-filtered skip tensors
 
 ```md
-![Model Architecture](docs/Architecture.png)
 
-```
+```<img width="920" height="641" alt="Architecture" src="https://github.com/user-attachments/assets/04c7a5ac-42c2-419d-8122-1a40a0a45249" />
+
 
 ---
 
