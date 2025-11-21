@@ -73,11 +73,9 @@ The **Attention Half U-Net** consists of:
   - Attention gate on each skip connection  
   - Fusion of attention-filtered skip tensors
 
-```md
-
-https://github.com/user-attachments/assets/04c7a5ac-42c2-419d-8122-1a40a0a45249
-
-```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04c7a5ac-42c2-419d-8122-1a40a0a45249" width="700">
+</p>
 ---
 
 # 5. Dataset Requirements
