@@ -75,9 +75,9 @@ The **Attention Half U-Net** consists of:
 
 ```md
 
-```<img width="920" height="641" alt="Architecture" src="https://github.com/user-attachments/assets/04c7a5ac-42c2-419d-8122-1a40a0a45249" />
+<img width="920" height="641" alt="Architecture" src="https://github.com/user-attachments/assets/04c7a5ac-42c2-419d-8122-1a40a0a45249" />
 
-
+```
 ---
 
 # 5. Dataset Requirements
