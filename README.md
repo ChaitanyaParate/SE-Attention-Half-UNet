@@ -149,9 +149,10 @@ Validation metrics computed using `check_accuracy()`:
 
 # 10. Results & Performance
 
-```md
-![Performance Plot](docs/Performance.png)
-```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d38af22c-bfb0-410d-90ed-f5c2a77011f4" width="700">
+</p>
+
 
 Results on **Kvasir‑SEG**:
 
