@@ -1,0 +1,10 @@
+__pycache__
+docs
+Kvasir-SEG
+saved_images
+sessile-main-Kvasir-SEG
+Attention_Half_U-Net.drawio
+dice_history.pt
+image.png
+my_checkpoint.pth.tar
+plot.py
