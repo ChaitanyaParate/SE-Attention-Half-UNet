@@ -86,7 +86,7 @@ Takes the gating signal `g` (from the decoder) and the skip connection `x`. Lear
 ### Architecture Diagram
 
 <p align="center">
-  <img src="docs/Architecture.png" width="750" alt="Attention Half U-Net Architecture">
+  <img src="https://github.com/user-attachments/assets/04c7a5ac-42c2-419d-8122-1a40a0a45249" width="700">
 </p>
 
 ---
@@ -119,8 +119,6 @@ SE-Attention-Half-UNet/
 └── dice_history.pt            # Per-epoch Dice score log (not tracked in git)
 ```
 
----
-
 ## Dataset
 
 The model is trained and validated on subsets of the **Kvasir-SEG** polyp segmentation benchmark.
@@ -131,6 +129,8 @@ The model is trained and validated on subsets of the **Kvasir-SEG** polyp segmen
 | **Validation** | `sessile-main-Kvasir-SEG` (sessile polyp subset) |
 
 **Dataset format:**
+
+### Folder structure
 ```
 dataset/
 ├── images/    # RGB JPEG/PNG endoscopy frames
