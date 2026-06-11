@@ -229,8 +229,9 @@ Loads `dice_history.pt` and renders a Dice score vs. Epoch curve.
 ### Training Curve
 
 <p align="center">
-  <img src="docs/Performance.png" width="750" alt="Dice Score vs Epoch on Kvasir-SEG">
+<img src="https://github.com/user-attachments/assets/d38af22c-bfb0-410d-90ed-f5c2a77011f4" width="700">
 </p>
+
 
 The model shows stable improvement across 150 epochs, converging to a Dice score of **~0.93** on the validation set, consistent with strong polyp segmentation performance.
 
