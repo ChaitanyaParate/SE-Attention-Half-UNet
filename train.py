@@ -4,7 +4,7 @@ from albumentations.pytorch import ToTensorV2
 from tqdm import tqdm
 import torch.optim as optim
 from model import Att_H_UNET
-from loss import BCEDiceLoss
+from NN_Scratch.loss import BCEDiceLoss
 from utils import(
     load_checkpoint,
     save_checkpoint,
